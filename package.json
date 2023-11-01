@@ -1,0 +1,21 @@
+{
+  "name": "skills-introduction-to-github",
+  "version": "1.0.0",
+  "description": "<header>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linda-ochem/skills-introduction-to-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linda-ochem/skills-introduction-to-github/issues"
+  },
+  "homepage": "https://github.com/linda-ochem/skills-introduction-to-github#readme"
+}
