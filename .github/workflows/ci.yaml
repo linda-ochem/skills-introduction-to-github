@@ -33,4 +33,4 @@ jobs:
       - name: Build and Push Docker Image
         run: |
           docker build -t cleowoman/play:v1 .
-          docker push cleowoman/play
+          docker push cleowoman/play:v1
